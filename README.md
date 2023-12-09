@@ -1,2 +1,2 @@
 # Electronic_device
-Electronic device all
+Electronic device
