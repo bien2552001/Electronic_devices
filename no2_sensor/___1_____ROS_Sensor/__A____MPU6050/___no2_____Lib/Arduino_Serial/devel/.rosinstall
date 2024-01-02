@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/devel/setup.sh

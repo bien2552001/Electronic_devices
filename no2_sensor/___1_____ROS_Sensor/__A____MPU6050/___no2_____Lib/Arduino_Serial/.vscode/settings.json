@@ -1,0 +1,10 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/bien/ros1/hardware/Arduino_Ros/Arduino_Ros/Lib/Ros_Arduino_Serial/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/bien/ros1/hardware/Arduino_Ros/Arduino_Ros/Lib/Ros_Arduino_Serial/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
