@@ -6,7 +6,7 @@ from os import path as os_path
 from pkgutil import extend_path
 from sys import path as sys_path
 
-__extended_path = '/home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/src/rosserial/rosserial_vex_v5/src'.split(';')
+__extended_path = '/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/src/rosserial/rosserial_vex_v5/src'.split(';')
 for p in reversed(__extended_path):
     sys_path.insert(0, p)
     del p

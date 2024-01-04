@@ -1,0 +1,8 @@
+prefix=/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__B____RPLIDAR A1M8/Lib/HECTOR_SLAM/Chinh_sua/install
+
+Name: hector_compressed_map_transport
+Description: Description of hector_compressed_map_transport
+Version: 0.5.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs nav_msgs sensor_msgs

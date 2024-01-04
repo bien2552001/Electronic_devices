@@ -1,0 +1,8 @@
+prefix=/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__B____RPLIDAR A1M8/Lib/HECTOR_SLAM/Chinh_sua/devel
+
+Name: hector_map_tools
+Description: Description of hector_map_tools
+Version: 0.5.2
+Cflags: -I/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__B____RPLIDAR A1M8/Lib/HECTOR_SLAM/Chinh_sua/src/hector_slam/hector_map_tools/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib 
+Requires: nav_msgs

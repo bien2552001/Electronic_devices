@@ -6,5 +6,5 @@ CXX_FLAGS = -fPIC
 
 CXX_DEFINES = -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\"rosserial_server\" -Drosserial_server_lookup_EXPORTS
 
-CXX_INCLUDES = -I/home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/src/rosserial/rosserial_server/include -I/home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/python3.8 
+CXX_INCLUDES = -I/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/src/rosserial/rosserial_server/include -I/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/python3.8 
 

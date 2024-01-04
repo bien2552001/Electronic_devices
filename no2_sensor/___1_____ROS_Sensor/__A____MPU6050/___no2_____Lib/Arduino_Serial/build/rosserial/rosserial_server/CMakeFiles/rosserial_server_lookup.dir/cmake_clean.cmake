@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/devel/lib/librosserial_server_lookup.pdb"
-  "/home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/devel/lib/librosserial_server_lookup.so"
+  "/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/devel/lib/librosserial_server_lookup.pdb"
+  "/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/devel/lib/librosserial_server_lookup.so"
   "CMakeFiles/rosserial_server_lookup.dir/src/msg_lookup.cpp.o"
 )
 

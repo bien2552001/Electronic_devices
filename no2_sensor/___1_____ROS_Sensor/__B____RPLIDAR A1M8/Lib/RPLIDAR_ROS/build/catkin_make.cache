@@ -1,0 +1,2 @@
+rplidar_ros
+-DCATKIN_DEVEL_PREFIX=/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__B____RPLIDAR A1M8/Lib/RPLIDAR_ROS/devel -DCMAKE_INSTALL_PREFIX=/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__B____RPLIDAR A1M8/Lib/RPLIDAR_ROS/install -G Unix Makefiles

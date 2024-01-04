@@ -1,0 +1,2 @@
+custom_mpu6050_rasp
+-DCATKIN_DEVEL_PREFIX=/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no1_____Source/__E__Tu_viet_MPU6050_Raspberry_Ros/devel -DCMAKE_INSTALL_PREFIX=/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no1_____Source/__E__Tu_viet_MPU6050_Raspberry_Ros/install -G Unix Makefiles

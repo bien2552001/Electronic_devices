@@ -1,0 +1,8 @@
+prefix=/home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Hardware/MPU6050/clone2_us_Arduino/video1_connect_hardware/code_chinh_sua/install
+
+Name: robot_diff
+Description: Description of robot_diff
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

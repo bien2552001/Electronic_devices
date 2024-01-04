@@ -1,0 +1,8 @@
+prefix=/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__B____RPLIDAR A1M8/Lib/RPLIDAR_ROS/install
+
+Name: rplidar_ros
+Description: Description of rplidar_ros
+Version: 1.9.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

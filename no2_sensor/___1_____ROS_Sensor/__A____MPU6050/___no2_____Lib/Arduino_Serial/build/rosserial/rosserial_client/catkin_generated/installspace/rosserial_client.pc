@@ -1,4 +1,4 @@
-prefix=/home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/install
+prefix=/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/install
 
 Name: rosserial_client
 Description: Description of rosserial_client

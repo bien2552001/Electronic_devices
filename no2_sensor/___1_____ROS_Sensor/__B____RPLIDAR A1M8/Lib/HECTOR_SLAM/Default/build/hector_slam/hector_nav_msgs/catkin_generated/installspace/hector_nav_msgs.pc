@@ -1,0 +1,8 @@
+prefix=/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__B____RPLIDAR A1M8/Lib/HECTOR_SLAM/Default/install
+
+Name: hector_nav_msgs
+Description: Description of hector_nav_msgs
+Version: 0.5.2
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: nav_msgs geometry_msgs message_runtime std_msgs

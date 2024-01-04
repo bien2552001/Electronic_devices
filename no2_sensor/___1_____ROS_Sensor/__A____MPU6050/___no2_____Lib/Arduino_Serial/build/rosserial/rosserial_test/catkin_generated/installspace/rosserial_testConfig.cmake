@@ -67,14 +67,14 @@ set(rosserial_test_CONFIG_INCLUDED TRUE)
 
 # set variables for source/devel/install prefixes
 if("FALSE" STREQUAL "TRUE")
-  set(rosserial_test_SOURCE_PREFIX /home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/src/rosserial/rosserial_test)
-  set(rosserial_test_DEVEL_PREFIX /home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/devel)
+  set(rosserial_test_SOURCE_PREFIX /home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/src/rosserial/rosserial_test)
+  set(rosserial_test_DEVEL_PREFIX /home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/devel)
   set(rosserial_test_INSTALL_PREFIX "")
   set(rosserial_test_PREFIX ${rosserial_test_DEVEL_PREFIX})
 else()
   set(rosserial_test_SOURCE_PREFIX "")
   set(rosserial_test_DEVEL_PREFIX "")
-  set(rosserial_test_INSTALL_PREFIX /home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/install)
+  set(rosserial_test_INSTALL_PREFIX /home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/install)
   set(rosserial_test_PREFIX ${rosserial_test_INSTALL_PREFIX})
 endif()
 
@@ -154,7 +154,7 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
-    foreach(path /home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/install/lib;/opt/ros/noetic/lib)
+    foreach(path /home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/install/lib;/opt/ros/noetic/lib)
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)

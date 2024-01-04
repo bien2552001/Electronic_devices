@@ -2,7 +2,7 @@
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/install")
+  set(CMAKE_INSTALL_PREFIX "/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/build/gtest/googlemock/cmake_install.cmake")
+  include("/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/build/gtest/googlemock/cmake_install.cmake")
 
 endif()
 

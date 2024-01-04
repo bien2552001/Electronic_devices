@@ -6,17 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/src/rosserial/rosserial_server/include/rosserial_server/msg_lookup.h
+/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/src/rosserial/rosserial_server/include/rosserial_server/msg_lookup.h
 string
 -
 stdexcept
 -
 
-/home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/src/rosserial/rosserial_server/src/msg_lookup.cpp
+/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/src/rosserial/rosserial_server/src/msg_lookup.cpp
 rosserial_server/msg_lookup.h
-/home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/src/rosserial/rosserial_server/src/rosserial_server/msg_lookup.h
+/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/src/rosserial/rosserial_server/src/rosserial_server/msg_lookup.h
 Python.h
-/home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/src/rosserial/rosserial_server/src/Python.h
+/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/src/rosserial/rosserial_server/src/Python.h
 
 /usr/include/python3.8/Python.h
 patchlevel.h

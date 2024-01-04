@@ -1,0 +1,8 @@
+prefix=/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__B____RPLIDAR A1M8/Lib/HECTOR_SLAM/Default/install
+
+Name: hector_mapping
+Description: Description of hector_mapping
+Version: 0.5.2
+Cflags: -I${prefix}/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib 
+Requires: roscpp nav_msgs visualization_msgs tf message_filters laser_geometry message_runtime

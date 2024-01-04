@@ -1,8 +1,8 @@
-# Install script for directory: /home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/src/rosserial/rosserial
+# Install script for directory: /home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/src/rosserial/rosserial
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/install")
+  set(CMAKE_INSTALL_PREFIX "/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -38,6 +38,6 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/rosserial" TYPE FILE FILES "/home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/src/rosserial/rosserial/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/rosserial" TYPE FILE FILES "/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/src/rosserial/rosserial/package.xml")
 endif()
 

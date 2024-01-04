@@ -1,0 +1,8 @@
+prefix=/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__B____RPLIDAR A1M8/Lib/HECTOR_SLAM/Default/install
+
+Name: hector_geotiff_plugins
+Description: Description of hector_geotiff_plugins
+Version: 0.5.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: hector_geotiff hector_nav_msgs

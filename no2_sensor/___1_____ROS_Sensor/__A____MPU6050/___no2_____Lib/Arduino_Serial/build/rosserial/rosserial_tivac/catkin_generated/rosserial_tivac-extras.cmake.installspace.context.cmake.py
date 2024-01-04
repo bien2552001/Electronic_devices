@@ -2,7 +2,7 @@
 DEVELSPACE = 'FALSE' == 'TRUE'
 INSTALLSPACE = 'TRUE' == 'TRUE'
 
-CATKIN_DEVEL_PREFIX = '/home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/devel'
+CATKIN_DEVEL_PREFIX = '/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/devel'
 
 CATKIN_GLOBAL_BIN_DESTINATION = 'bin'
 CATKIN_GLOBAL_ETC_DESTINATION = 'etc'
@@ -20,14 +20,14 @@ CATKIN_PACKAGE_LIBEXEC_DESTINATION = 'lib/rosserial_tivac'
 CATKIN_PACKAGE_PYTHON_DESTINATION = 'lib/python3/dist-packages/rosserial_tivac'
 CATKIN_PACKAGE_SHARE_DESTINATION = 'share/rosserial_tivac'
 
-CMAKE_BINARY_DIR = '/home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/build'
-CMAKE_CURRENT_BINARY_DIR = '/home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/build/rosserial/rosserial_tivac'
-CMAKE_CURRENT_SOURCE_DIR = '/home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/src/rosserial/rosserial_tivac'
-CMAKE_INSTALL_PREFIX = '/home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/install'
-CMAKE_SOURCE_DIR = '/home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/src'
+CMAKE_BINARY_DIR = '/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/build'
+CMAKE_CURRENT_BINARY_DIR = '/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/build/rosserial/rosserial_tivac'
+CMAKE_CURRENT_SOURCE_DIR = '/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/src/rosserial/rosserial_tivac'
+CMAKE_INSTALL_PREFIX = '/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/install'
+CMAKE_SOURCE_DIR = '/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/src'
 
 PKG_CMAKE_DIR = '${rosserial_tivac_DIR}'
 
 PROJECT_NAME = 'rosserial_tivac'
-PROJECT_BINARY_DIR = '/home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/build/rosserial/rosserial_tivac'
-PROJECT_SOURCE_DIR = '/home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/src/rosserial/rosserial_tivac'
+PROJECT_BINARY_DIR = '/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/build/rosserial/rosserial_tivac'
+PROJECT_SOURCE_DIR = '/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/src/rosserial/rosserial_tivac'

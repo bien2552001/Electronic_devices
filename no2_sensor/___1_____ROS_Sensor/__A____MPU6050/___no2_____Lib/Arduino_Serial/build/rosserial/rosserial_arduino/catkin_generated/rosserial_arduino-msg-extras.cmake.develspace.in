@@ -1,2 +1,2 @@
-set(rosserial_arduino_MESSAGE_FILES "/home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/src/rosserial/rosserial_arduino/msg/Adc.msg")
-set(rosserial_arduino_SERVICE_FILES "/home/bien/ros1/hardware/Arduino_Development/Arduino_Ros/Lib/Arduino_Serial/src/rosserial/rosserial_arduino/srv/Test.srv")
+set(rosserial_arduino_MESSAGE_FILES "/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/src/rosserial/rosserial_arduino/msg/Adc.msg")
+set(rosserial_arduino_SERVICE_FILES "/home/bien/ros1/hardware/Electronic_devices/no2_sensor/___1_____ROS_Sensor/__A____MPU6050/___no2_____Lib/Arduino_Serial/src/rosserial/rosserial_arduino/srv/Test.srv")
